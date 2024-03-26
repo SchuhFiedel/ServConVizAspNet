@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServConVisualizer", "ServConVisualizer.csproj", "{C1602A57-674C-4E2D-8963-80D0F539D115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServConViz", "..\ServConViz\ServConViz.csproj", "{51E09C4A-6E95-45EB-A163-16D42BCDE00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1602A57-674C-4E2D-8963-80D0F539D115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1602A57-674C-4E2D-8963-80D0F539D115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1602A57-674C-4E2D-8963-80D0F539D115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1602A57-674C-4E2D-8963-80D0F539D115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E09C4A-6E95-45EB-A163-16D42BCDE00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E09C4A-6E95-45EB-A163-16D42BCDE00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E09C4A-6E95-45EB-A163-16D42BCDE00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E09C4A-6E95-45EB-A163-16D42BCDE00D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3256B5-62BE-4514-8DE4-5C9AEF5B83AA}
+	EndGlobalSection
+EndGlobal
